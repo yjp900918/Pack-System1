@@ -1,0 +1,25 @@
+﻿[
+	{
+		"id": 0,
+		"title": "silver sword",
+		"value": 5,
+		"description": "medium",
+		"slug": "silver"
+	},
+
+	{
+		"id": 1,
+		"title": "golden sword",
+		"value": 10,
+		"description": "good",
+		"slug": "golden"
+	},
+
+	{
+		"id": 2,
+		"title": "bronze sword",
+		"value": 10,
+		"description": "bad",
+		"slug": "bronze"
+	}
+]
